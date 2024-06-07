@@ -13,8 +13,8 @@ This project is a simple JavaScript script designed to demonstrate the basics of
 * How to run the program
 
 1. Open GitHub Repository in Gitpod:
-  * Ensure your project is on GitHub. If not, create a new repository and push your code to it.
-  * Open your repository on GitHub.
+   * Ensure your project is on GitHub. If not, create a new repository and push your code to it.
+   * Open your repository on GitHub.
     
 2. Launch Gitpod:
      
