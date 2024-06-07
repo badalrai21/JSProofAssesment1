@@ -23,13 +23,11 @@ This project is a simple JavaScript script designed to demonstrate the basics of
   * Press Enter to open the Gitpod workspace.
     
 3. Install Node.js:
-
   * Gitpod typically comes with Node.js pre-installed. To verify, open the terminal in Gitpod and run:
     
 ```
 code node -v
 ```
-
   * If Node.js is not installed, you can install it by running:
 ```
 sudo apt-get update
@@ -38,7 +36,6 @@ sudo apt-get install -y npm
 ```
 
 4. Create JavaScript File:
-     
   * If not already present, create a new file named nftMinting.js in the Gitpod workspace.
   * Copy and paste the following code into the nftMinting.js file:
  
