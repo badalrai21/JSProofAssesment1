@@ -45,6 +45,12 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y npm
 ```
 
+
+```
+sudo apt-get update
+sudo apt-get install -y nodejs
+sudo apt-get install -y npm
+```
 ## Help
 
 Any advise for common problems or issues.
