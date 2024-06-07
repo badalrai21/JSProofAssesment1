@@ -8,11 +8,6 @@ This project is a simple JavaScript script designed to demonstrate the basics of
 
 ## Getting Started
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
 * How to run the program
@@ -43,10 +38,10 @@ This project is a simple JavaScript script designed to demonstrate the basics of
 
   4. Create JavaScript File:
      
-    * If not already present, create a new file named nftMinting.js in the Gitpod workspace.
-    * Copy and paste the following code into the nftMinting.js file:
+    *If not already present, create a new file named nftMinting.js in the Gitpod workspace.
+    *Copy and paste the following code into the nftMinting.js file:
  
-      ```
+  ```
     sudo apt-get update
     sudo apt-get install -y nodejs
     sudo apt-get install -y npm
