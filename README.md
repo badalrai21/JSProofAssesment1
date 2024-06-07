@@ -11,42 +11,42 @@ This project is a simple JavaScript script designed to demonstrate the basics of
 ### Executing program
 
 * How to run the program
-  
+
   1. Open GitHub Repository in Gitpod:
-     
-    * Ensure your project is on GitHub. If not, create a new repository and push your code to it.
-    * Open your repository on GitHub.
+* Ensure your project is on GitHub. If not, create a new repository and push your code to it.
+* Open your repository on GitHub.
     
-  2. Launch Gitpod:
+2. Launch Gitpod:
      
-    * In the URL of your repository, prefix the URL with https://gitpod.io/#.
-    * For example, if your repository URL is https://github.com/username/nft-minting-script, change it to https://gitpod.io/#https://github.com/username/nft-minting-script.
-    * Press Enter to open the Gitpod workspace.
+* In the URL of your repository, prefix the URL with https://gitpod.io/#.
+* For example, if your repository URL is https://github.com/username/nft-minting-script, change it to https://gitpod.io/#https://github.com/username/nft-minting-script.
+* Press Enter to open the Gitpod workspace.
     
-  3. Install Node.js:
+3. Install Node.js:
 
-    * Gitpod typically comes with Node.js pre-installed. To verify, open the terminal in Gitpod and run:
-      
-  ```
-  code node -v
-  ```
-    * If Node.js is not installed, you can install it by running:
-  ```
-  sudo apt-get update
-  sudo apt-get install -y nodejs
-  sudo apt-get install -y npm
-  ```
+* Gitpod typically comes with Node.js pre-installed. To verify, open the terminal in Gitpod and run:
+    
+```
+code node -v
+```
 
-  4. Create JavaScript File:
+* If Node.js is not installed, you can install it by running:
+```
+sudo apt-get update
+sudo apt-get install -y nodejs
+sudo apt-get install -y npm
+```
+
+4. Create JavaScript File:
      
-    * If not already present, create a new file named nftMinting.js in the Gitpod workspace.
-    * Copy and paste the following code into the nftMinting.js file:
+* If not already present, create a new file named nftMinting.js in the Gitpod workspace.
+* Copy and paste the following code into the nftMinting.js file:
  
-  ```
-    sudo apt-get update
-    sudo apt-get install -y nodejs
-    sudo apt-get install -y npm
-  ```
+```
+sudo apt-get update
+sudo apt-get install -y nodejs
+sudo apt-get install -y npm
+```
 
 ## Help
 
