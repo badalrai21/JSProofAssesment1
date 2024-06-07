@@ -12,20 +12,21 @@ This project is a simple JavaScript script designed to demonstrate the basics of
 
 * How to run the program
   
-  - Open GitHub Repository in Gitpod:
+  1. Open GitHub Repository in Gitpod:
      
     * Ensure your project is on GitHub. If not, create a new repository and push your code to it.
     * Open your repository on GitHub.
     
-  - Launch Gitpod:
+  2. Launch Gitpod:
      
     * In the URL of your repository, prefix the URL with https://gitpod.io/#.
     * For example, if your repository URL is https://github.com/username/nft-minting-script, change it to https://gitpod.io/#https://github.com/username/nft-minting-script.
     * Press Enter to open the Gitpod workspace.
     
-  - Install Node.js:
+  3. Install Node.js:
 
     * Gitpod typically comes with Node.js pre-installed. To verify, open the terminal in Gitpod and run:
+      
   ```
   code node -v
   ```
