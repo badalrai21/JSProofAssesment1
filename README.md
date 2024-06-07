@@ -1,4 +1,4 @@
-JSProofAssesment
+##JSProofAssesment
 
 This project provides a basic implementation of an NFT (Non-Fungible Token) minting process using JavaScript. The script demonstrates how to create (mint) NFTs with specific metadata, list all minted NFTs, and get the total count of NFTs minted. It's a simple, introductory example aimed at understanding the basic concepts of NFT creation and management in a programming context.
 
