@@ -102,7 +102,7 @@ You can easily run on VS Code or online platform known as GitPod which decreases
 
 ## Authors
 
-Badal Kumar Rai
+Badal Kumar Rai                                                                                                                        
 [@BadalRai](https://www.linkedin.com/in/badal-kumar-rai-a0151b259/)
 
 ## License
