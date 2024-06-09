@@ -98,17 +98,12 @@ getTotalSupply();
 ```
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+You can easily run on VS Code or online platform known as GitPod which decreases the chances of errors.
 
 ## Authors
 
-Contributors names and contact info
-
 Badal Kumar Rai
-@Badalrai21
+@Badalrai21[linkedin.com/in/badal-kumar-rai-a0151b259]
 
 
 ## License
