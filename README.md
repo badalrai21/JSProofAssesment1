@@ -45,7 +45,7 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y npm
 ```
 
-
+This is the actual demo code of NFT Minting which should be in your repository as it runs on Gitpod or Node.js
 ```
 // create a variable to hold your NFT's
 const NFTs = []
